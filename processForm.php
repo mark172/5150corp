@@ -51,7 +51,7 @@ $headers = "From: $email";
 mail($to, $subject, $message, $headers);
 
 // Die with a success message
-die("<div class='thanks'>Thanks for submitting your email! Our manager will contact you shortly.</div>");
+die("<div class='thanks'>Thanks for submitting a message! We will be in contact with you shortly.</div>");
 
 // A function that checks to see if
 // an email is valid
