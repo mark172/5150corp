@@ -227,9 +227,9 @@ textarea,
 	background-size:cover;
 }
 	.img1 {
-		background:url(../img/main1.png) no-repeat center center fixed;
-		filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../img/main1.png', sizingMethod='scale');
-		-ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../img/main1.png', sizingMethod='scale')";
+		background:url(../img/main2.jpg) no-repeat center center fixed;
+		filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../img/main2.jpg', sizingMethod='scale');
+		-ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../img/main2.jpg', sizingMethod='scale')";
 		}
 	.img2 {
 		background:url(../img/2.jpg) no-repeat center center fixed;
