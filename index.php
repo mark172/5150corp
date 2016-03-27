@@ -97,7 +97,7 @@
 							<form id="contact-form" class="clearfix" action="processForm.php" method="post">
 
 											<h2 class="md-tilte-box">Contact Us</h2>
-											<p class="md-desc-box">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor.</p>
+											<p class="md-desc-box">Send us a message here and we'll respond to you shortly.</p>
 											<div class="md-form clearfix" id="contact-content">
 													<div class="grid_6">
 															<input type="text" name="name" placeholder="Your name">
