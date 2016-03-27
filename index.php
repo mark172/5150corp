@@ -26,23 +26,7 @@
     <script src="js/jquery.validate.min.js" type="text/javascript" charset="utf-8"></script>
 		<script src="js/jquery.cycle.lite.js" type="text/javascript" charset="utf-8"></script>
     <script src="js/script.js" type="text/javascript" charset="utf-8"></script>
-    
-    <script language="javascript" type="text/javascript">
-			jQuery(document).ready(function() {
-				$('#countdown_dashboard').countDown({
-					targetDate: {
-						'day': 		31,
-						'month': 	12,
-						'year': 	2017,
-						'hour': 	22,
-						'min': 		0,
-						'sec': 		0					}
-				});
-				
-			});
-		</script>
-		
-		
+
 </head>
 <body>
     <!-- HEADER -->
@@ -150,7 +134,7 @@
 			<div class="md-dialog notify" id="notify">
 				<div class="wrap860">
 					<div class="container_16">
-									<h2 class="md-tilte-box">Notify me when its ready</h2>
+									<h2 class="md-tilte-box">About 5150 Corp</h2>
 									<p class="md-desc-box">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor.</p>
 	
 							<a href="#" class="btn-close"></a>
@@ -173,8 +157,6 @@
 				</div>
 			</div>
 		</div>
-		
-		
 	</footer>
 	<!-- /FOOTER -->
 	
