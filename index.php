@@ -32,7 +32,7 @@
     <!-- HEADER -->
 	<header>
         <div class="md-logo">
-					<img src="../images/5150CorpLogo.png"></img>
+					<img src="../images/5150CorpLogoGold.png"></img>
         </div>
 	</header>
     <!-- /HEADER -->
@@ -83,9 +83,9 @@
 		<div class="md-block-bottom">
 			<div class="md-btn-group wrap860" id="md-btn-group">
 				<div class="container_12 clearfix">
-					<a href="#notify" class="grid_4 md-button notify">About Us</a>
-					<a href="#contact-us" class="grid_4 md-button contact-us">Contact Us</a>
-					<a href="#follow" class="grid_4 md-button follow">Follow Us</a>
+					<a href="#notify" class="grid_6 md-button notify">About Us</a>
+					<!--<a href="#contact-us" class="grid_4 md-button contact-us">Contact Us</a>-->
+					<a href="#follow" class="grid_6 md-button follow">Follow Us</a>
 				</div>
 			</div>
 			

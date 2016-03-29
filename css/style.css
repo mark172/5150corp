@@ -245,7 +245,8 @@ textarea,
 	padding: 35px 0 30px;
 	text-align: center;
 	border-top: 3px solid #DD5B43;
-	margin-bottom:10px;
+	background-color: #000;
+	/*margin-bottom:10px;*/
 }
 .md-logo h1 {
 	background: url('../images/5150CorpLogo.png') no-repeat center;
